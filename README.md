@@ -8,6 +8,5 @@ You can download the plugin soon...
 # Usage
 At first, you must define a game player
 ```java
-# Sets the current number of players playing
 GamePlayer gamePlayer = new GamePlayer(Player);
 ```
