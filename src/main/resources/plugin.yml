@@ -1,0 +1,4 @@
+name: KitPvP
+version: '${project.version}'
+main: de.sqlcxde.kitpvp.KitPvP
+api-version: 1.19

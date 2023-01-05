@@ -1,0 +1,28 @@
+german: false
+serverName: §3§lPvP§bLegacy
+mysql:
+  host: localhost
+  port: 3306
+  database: kitpvp
+  username: root
+  password: password
+streakAnnouncements:
+  - 5
+  - 10
+  - 15
+  - 20
+  - 25
+  - 30
+  - 35
+  - 40
+  - 45
+  - 50
+  - 55
+  - 65
+  - 70
+  - 75
+  - 80
+  - 85
+  - 90
+  - 95
+  - 100
