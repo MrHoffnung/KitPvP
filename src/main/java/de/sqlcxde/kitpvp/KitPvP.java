@@ -37,9 +37,6 @@ public final class KitPvP extends JavaPlugin {
     }
 
     private void registerEvents() {
-        getServer().getPluginManager().registerEvents(new SignChangeListener(), this);
-        getServer().getPluginManager().registerEvents(new PlayerInteractListener(), this);
-        getServer().getPluginManager().registerEvents(new PlayerLoginListener(), this);
     }
 
     private void loadFiles() {
